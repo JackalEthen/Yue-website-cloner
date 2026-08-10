@@ -1,4 +1,4 @@
-# AI Website Cloner Template 中文版
+# Yue Website Cloner 中文版
 
 <p align="left">
   <a href="https://github.com/JCodesMore/ai-website-cloner-template/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue" alt="MIT License" /></a>
