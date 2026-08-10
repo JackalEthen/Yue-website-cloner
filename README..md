@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/endpoint?url=https://gittokens.rsamf.com/badge/JCodesMore/ai-website-cloner-template" alt="tokens" />
 </p>
 
-> 简体中文文档 | [English README](README.md)
+> 简体中文文档 | [English README](README.en.md)
 
 一套可复用的模板，借助 AI 编程代理将任意网站反向工程为干净、现代的 Next.js 代码库。
 
